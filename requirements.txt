@@ -9,3 +9,5 @@ catboost
 lightgbm
 xgboost
 statsmodels
+pmdarima 
+prophet 
